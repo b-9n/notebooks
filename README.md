@@ -8,3 +8,8 @@ Simple notebook to extract a single speaker audio and convert it to LJSpeech for
 copy the latest mozillavoice dataset to drive /Mozillavoice/<latest_archive_date>/dv.tar.gz  
 save audios as mp3 if u want to save space, or wav if u want less work later  
 also get some stats along the way  
+
+
+# MozillaVoice2LJSpeech_SingleSpeaker [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EMYrjmENBAj9MnNvTrYXL5gQCFld0mJM)
+Newer notebook with probably less problems  
+use the generated LJSpeech format archive with this notebook  
